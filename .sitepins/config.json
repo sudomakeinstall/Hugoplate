@@ -6,6 +6,9 @@
   "content": {
     "root": "exampleSite/content/english"
   },
+  "code": {
+    "root": "layouts"
+  },
   "themeConfig": [
     "exampleSite/config/_default",
     "exampleSite/hugo.toml"
